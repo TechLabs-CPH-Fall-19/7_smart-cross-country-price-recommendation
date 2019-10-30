@@ -17,7 +17,7 @@ This is the repository for Project Group 7 - Smart Cross-Country Price Recommend
 6. Watch the following tutorial to **get started with Git & VS Code on your laptop**: 
     
     https://www.youtube.com/watch?v=VOwyH2-VCVY
-7. **Clone this repository** based on what the tutorial in 5. shows you.
+7. **Clone this repository** based on what the tutorial in 6. shows you.
 8. Here is some helpful tutorial on how to **structure Python projects**: 
     
     https://dev.to/codemouse92/dead-simple-python-project-structure-and-imports-38c6 AND https://docs.python-guide.org/writing/structure/
