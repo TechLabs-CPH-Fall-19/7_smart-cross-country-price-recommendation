@@ -30,14 +30,21 @@ This is the repository for Project Group 7 - Smart Cross-Country Price Recommend
 
       Just copy and paste the link in the browser to the Project Management Template part under "Link to Github Repository".
 
-11. Here is some helpful tutorial on how to **structure Python projects**: 
+### Some more useful information
+1. If you need to **use libraries and install packages**, you should use the integrated PIP that allows you to install, reinstall, or uninstall PyPI packages (https://pypi.org/). Read more about it here: https://www.makeuseof.com/tag/install-pip-for-python/
+   
+   NOTE for Windows User: In Command Prompt or Terminal within VS Code you need to add `python -m` before the `pip install [package-name]`
+2. Here is some helpful tutorial on how to **structure Python projects**: 
 
       https://dev.to/codemouse92/dead-simple-python-project-structure-and-imports-38c6 AND https://docs.python-guide.org/writing/structure/
 
-12. Get some insight of **how to plan programming projects**: 
+3. Get some insight of **how to plan programming projects**: 
     
     https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
-13. Look into different ways to **structure your programming files**: 
+4. Look into different ways to **structure your programming files**: 
     
     https://www.freecodecamp.org/news/how-to-structure-your-project-and-manage-static-resources-in-react-native-6f4cfc947d92/
-14. ROCK YOUR PROJECT 🚀
+
+
+
+#### ROCK YOUR PROJECT 🚀
